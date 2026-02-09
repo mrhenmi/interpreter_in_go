@@ -1,0 +1,1 @@
+fully support Unicode is left to the reader.
